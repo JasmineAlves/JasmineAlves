@@ -1,16 +1,101 @@
-## Hi there 👋
+# 👩🏻‍💻 Jasmine Masson Alves
 
-<!--
-**JasmineAlves/JasmineAlves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante de Ciência / Análise de Dados`**
 
-Here are some ideas to get you started:
+📌 | Me chamo Jasmine Masson Alves, tenho 19 anos e sou natural de Santa Catarina. Atualmente, curso Engenharia da Computação na UNOESC. Sou apaixonada por tecnologia e recentemente venho me aprofundando no universo da análise de dados, utilizando ferramentas como Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Excel e Power BI. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 | **Idiomas** : Português (nativo), Inglês (Intermediário)  
+
+<br/>
+
+<p align="left">
+    <a href="mailto:jascpz@gmail.com">
+        <img 
+            alt="Gmail" 
+            title="Meu Gmail" 
+            src="https://custom-icon-badges.demolab.com/badge/-jascpz.tec@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"
+        />
+        </a>
+    <a href="https://www.linkedin.com/in/jasmine-masson-alves/">
+        <img 
+            alt="LinkedIn" 
+            title="Meu LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/-Meu%20LinkedIn%20-blue?style=for-the-badge&logo=workflow&logoColor=white"
+        />
+</p>
+
+---
+
+## 🤖 Linguagens e Tecnologias 
+
+<img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Pandas" 
+    title="Pandas"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
+/>
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<br/>
+<br/>
+
+## 📊 Estatísticas
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=JasmineAlves&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
+  />
+
+<br/>
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmineAlves&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
