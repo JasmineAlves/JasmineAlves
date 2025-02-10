@@ -9,7 +9,7 @@
 <br/>
 
 <p align="left">
-    <a href="mailto:jascpz@gmail.com">
+    <a href="mailto:jascpz.tec@gmail.com">
         <img 
             alt="Gmail" 
             title="Meu Gmail" 
@@ -88,9 +88,6 @@
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=JasmineAlves&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
   />
-
-<br/>
-<br/>
 
 <img 
       align="left" 
