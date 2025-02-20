@@ -4,7 +4,7 @@
 
 📌 | Me chamo Jasmine Masson Alves, tenho 19 anos e sou natural de Santa Catarina. Atualmente, curso Engenharia da Computação na UNOESC. Sou apaixonada por tecnologia e recentemente venho me aprofundando no **universo da análise de dados**, utilizando ferramentas como Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Excel e iniciando no Power BI. 
 
-- 🌍 | **Idiomas** : Português (Nativo), Inglês (Intermediário)  
+- 🌍 | **Idiomas** : Português (Nativo), Inglês (Intermediário).  
 
 <br/>
 
