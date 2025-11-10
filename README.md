@@ -89,11 +89,12 @@
     src="https://github-readme-stats.vercel.app/api?username=JasmineAlves&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
   />
 
+
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmineAlves&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmineAlves&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 
 </p>
