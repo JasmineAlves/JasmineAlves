@@ -2,7 +2,7 @@
 
 **`Estudante de Engenharia da Computação`**
 
-📌 | Me chamo Jasmine Masson Alves, tenho 20 anos e sou natural de Santa Catarina. Atualmente, curso **Engenharia da Computação**. Sou apaixonada por tecnologia e busco cada vez mais conhecimento. 
+📌 | Me chamo Jasmine Masson Alves, tenho 21 anos e sou natural de Santa Catarina. Atualmente, curso **Engenharia da Computação**. Sou apaixonada por tecnologia e busco cada vez mais conhecimento. 
 
 - 🌍 | **Idiomas** : Português (Nativo), Inglês (Intermediário).  
 
